@@ -16,6 +16,7 @@ using namespace std;
 using namespace cv;
 
 
+
 void FindBlobs(const cv::Mat &binary, std::vector < std::vector<cv::Point2i> > &blobs)
 {
     blobs.clear();
