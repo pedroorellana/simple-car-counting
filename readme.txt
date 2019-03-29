@@ -1,5 +1,6 @@
-compilar tarea 7.
+# C++ y Opencv
 
-Video debe esar en carpeta build.
+Solo usando background subtraction , nada sofisticado. Puede ser mejorado algún algoritmo de trackking y detector de vehículos. 
 
-Se adjunta archivo compilado por si acaso.
+Only using background subtraction, nothing fancy. Could be improve using some trackking algoritm or car detector.
+
