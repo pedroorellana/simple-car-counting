@@ -6,5 +6,5 @@ Solo usando background subtraction , nada sofisticado. Puede ser mejorado algún
 Only using background subtraction, nothing fancy. Could be improve using some trackking algoritm or car detector.
 
 
-![Screenshot](sc1.png)(https://www.youtube.com/watch?v=mEW-kE-OVys&t= "link video")
+[![Screenshot](sc1.png)](https://www.youtube.com/watch?v=mEW-kE-OVys&t= "link video")
 
